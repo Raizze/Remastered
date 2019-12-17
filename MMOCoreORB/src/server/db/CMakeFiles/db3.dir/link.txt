@@ -1,0 +1,2 @@
+ccache /usr/bin/ar qc libdb3.a  CMakeFiles/db3.dir/MantisDatabase.cpp.o CMakeFiles/db3.dir/MySqlDatabase.cpp.o CMakeFiles/db3.dir/ServerDatabase.cpp.o
+ccache /usr/bin/ranlib libdb3.a

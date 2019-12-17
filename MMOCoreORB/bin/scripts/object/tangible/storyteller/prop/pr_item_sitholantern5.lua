@@ -1,0 +1,3 @@
+object_tangible_storyteller_prop_pr_item_sitholantern5 = object_tangible_storyteller_prop_shared_pr_item_sitholantern5:new {
+}
+ObjectTemplates:addTemplate(object_tangible_storyteller_prop_pr_item_sitholantern5, "object/tangible/storyteller/prop/pr_item_sitholantern5.iff")

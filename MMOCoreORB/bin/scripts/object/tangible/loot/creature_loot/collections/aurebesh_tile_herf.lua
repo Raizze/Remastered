@@ -1,0 +1,6 @@
+object_tangible_loot_creature_loot_collections_aurebesh_tile_herf = object_tangible_loot_creature_loot_collections_shared_aurebesh_tile_herf:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_collections_aurebesh_tile_herf, "object/tangible/loot/creature_loot/collections/aurebesh_tile_herf.iff")
+

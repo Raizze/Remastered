@@ -1,0 +1,14 @@
+object_tangible_theme_park_wod_shared_wod_witch_banner_s01 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/theme_park/wod/shared_wod_witch_banner_s01.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_theme_park_wod_shared_wod_witch_banner_s01, "object/tangible/theme_park/wod/shared_wod_witch_banner_s01.iff")
+
+object_tangible_theme_park_wod_shared_wod_witch_banner_s02 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/theme_park/wod/shared_wod_witch_banner_s02.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_theme_park_wod_shared_wod_witch_banner_s02, "object/tangible/theme_park/wod/shared_wod_witch_banner_s02.iff")
+
+object_tangible_theme_park_wod_shared_wod_witch_banner_s03 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/theme_park/wod/shared_wod_witch_banner_s03.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_theme_park_wod_shared_wod_witch_banner_s03, "object/tangible/theme_park/wod/shared_wod_witch_banner_s03.iff")

@@ -1,0 +1,143 @@
+object_tangible_tcg_series1_shared_consumable_nuna_ball_advertisement = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_consumable_nuna_ball_advertisement.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_consumable_nuna_ball_advertisement, "object/tangible/tcg/series1/shared_consumable_nuna_ball_advertisement.iff")
+
+object_tangible_tcg_series1_shared_decorative_painting_alliance_propaganda = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_painting_alliance_propaganda.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_painting_alliance_propaganda, "object/tangible/tcg/series1/shared_decorative_painting_alliance_propaganda.iff")
+
+object_tangible_tcg_series1_shared_decorative_painting_darth_vader = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_painting_darth_vader.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_painting_darth_vader, "object/tangible/tcg/series1/shared_decorative_painting_darth_vader.iff")
+
+object_tangible_tcg_series1_shared_decorative_painting_imperial_propaganda = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_painting_imperial_propaganda.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_painting_imperial_propaganda, "object/tangible/tcg/series1/shared_decorative_painting_imperial_propaganda.iff")
+
+object_tangible_tcg_series1_shared_decorative_painting_jedi_crest = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_painting_jedi_crest.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_painting_jedi_crest, "object/tangible/tcg/series1/shared_decorative_painting_jedi_crest.iff")
+
+object_tangible_tcg_series1_shared_decorative_painting_trooper = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_painting_trooper.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_painting_trooper, "object/tangible/tcg/series1/shared_decorative_painting_trooper.iff")
+
+
+object_tangible_tcg_series1_shared_house_capacity_organizational_datapad = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_house_capacity_organizational_datapad.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_house_capacity_organizational_datapad, "object/tangible/tcg/series1/shared_house_capacity_organizational_datapad.iff")
+
+object_tangible_tcg_series1_shared_decorative_computer_console_01 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_computer_console_01.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_computer_console_01, "object/tangible/tcg/series1/shared_decorative_computer_console_01.iff")
+
+object_tangible_tcg_series1_shared_decorative_computer_console_02 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_computer_console_02.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_computer_console_02, "object/tangible/tcg/series1/shared_decorative_computer_console_02.iff")
+
+--Video Game Table
+object_tangible_tcg_series1_shared_video_game_table = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_video_game_table.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_video_game_table, "object/tangible/tcg/series1/shared_video_game_table.iff")
+
+--Decorative Bas Relief
+object_tangible_tcg_series1_shared_decorative_bas_relief = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_bas_relief.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_bas_relief, "object/tangible/tcg/series1/shared_decorative_bas_relief.iff")
+
+
+--Chon Bust
+object_tangible_tcg_series1_shared_decorative_chon_bust = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_chon_bust.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_chon_bust, "object/tangible/tcg/series1/shared_decorative_chon_bust.iff")
+
+--Dooku Bust
+object_tangible_tcg_series1_shared_decorative_dooku_bust = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_dooku_bust.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_dooku_bust, "object/tangible/tcg/series1/shared_decorative_dooku_bust.iff")
+
+--Display Case 1
+object_tangible_tcg_series1_shared_decorative_display_case_01 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_display_case_01.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_display_case_01, "object/tangible/tcg/series1/shared_decorative_display_case_01.iff")
+
+--Display Case 2
+object_tangible_tcg_series1_shared_decorative_display_case_02 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_display_case_02.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_display_case_02, "object/tangible/tcg/series1/shared_decorative_display_case_02.iff")
+
+--Decorative Drink Dispenser
+object_tangible_tcg_series1_shared_decorative_drink_dispenser = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_drink_dispenser.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_drink_dispenser, "object/tangible/tcg/series1/shared_decorative_drink_dispenser.iff")
+
+--Lepese Dictionary
+object_tangible_tcg_series1_shared_consumable_lepese_dictionary = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_consumable_lepese_dictionary.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_consumable_lepese_dictionary, "object/tangible/tcg/series1/shared_consumable_lepese_dictionary.iff")
+
+--Tusken Talisman
+object_tangible_tcg_series1_shared_reuseable_buff_item_tusken_talisman = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_reuseable_buff_item_tusken_talisman.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_reuseable_buff_item_tusken_talisman, "object/tangible/tcg/series1/shared_reuseable_buff_item_tusken_talisman.iff")
+
+--Sanyassan Skull
+object_tangible_tcg_series1_shared_reuseable_buff_item_sanyassan_skull = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_reuseable_buff_item_sanyassan_skull.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_reuseable_buff_item_sanyassan_skull, "object/tangible/tcg/series1/shared_reuseable_buff_item_sanyassan_skull.iff")
+
+--Fountain 1
+object_tangible_tcg_series1_shared_decorative_indoor_fountain_01 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_indoor_fountain_01.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_indoor_fountain_01, "object/tangible/tcg/series1/shared_decorative_indoor_fountain_01.iff")
+
+--Fountain 2
+object_tangible_tcg_series1_shared_decorative_indoor_fountain_02 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_indoor_fountain_02.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_indoor_fountain_02, "object/tangible/tcg/series1/shared_decorative_indoor_fountain_02.iff")
+
+--Garden 1
+object_tangible_tcg_series1_shared_decorative_indoor_garden_01 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_indoor_garden_01.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_indoor_garden_01, "object/tangible/tcg/series1/shared_decorative_indoor_garden_01.iff")
+
+--Garden 2
+object_tangible_tcg_series1_shared_decorative_indoor_garden_02 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_indoor_garden_02.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_indoor_garden_02, "object/tangible/tcg/series1/shared_decorative_indoor_garden_02.iff")
+
+--Vader Statuette
+object_tangible_tcg_series1_shared_decorative_statuette_darth_vader = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_statuette_darth_vader.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_statuette_darth_vader, "object/tangible/tcg/series1/shared_decorative_statuette_darth_vader.iff")
+
+--Leia Statuette
+object_tangible_tcg_series1_shared_decorative_statuette_princess_leia = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/tcg/series1/shared_decorative_statuette_princess_leia.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series1_shared_decorative_statuette_princess_leia, "object/tangible/tcg/series1/shared_decorative_statuette_princess_leia.iff")
+

@@ -1,0 +1,5 @@
+#!/bin/bash
+until ./core3; do
+	echo "Server crashed restarting"
+	sleep 1
+done

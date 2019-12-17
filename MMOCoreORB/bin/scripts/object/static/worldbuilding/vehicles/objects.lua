@@ -1,0 +1,4 @@
+object_static_worldbuilding_vehicles_shared_landspeeder_static_destroyed = SharedStaticObjectTemplate:new {
+	clientTemplateFileName = "object/static/worldbuilding/vehicles/shared_landspeeder_static_destroyed.iff"
+}
+ObjectTemplates:addClientTemplate(object_static_worldbuilding_vehicles_shared_landspeeder_static_destroyed, "object/static/worldbuilding/vehicles/shared_landspeeder_static_destroyed.iff")

@@ -1,0 +1,5 @@
+object_tangible_loot_creature_loot_collections_broken_lightsaber_hilt_016 = object_tangible_loot_creature_loot_collections_shared_broken_lightsaber_hilt_016:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_collections_broken_lightsaber_hilt_016, "object/tangible/loot/creature_loot/collections/broken_lightsaber_hilt_016.iff")

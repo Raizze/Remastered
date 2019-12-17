@@ -1,0 +1,18 @@
+object_tangible_meatlump_hideout_shared_meatlump_hotdog_grill_01 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/meatlump/hideout/shared_meatlump_hotdog_grill_01.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_meatlump_hideout_shared_meatlump_hotdog_grill_01, "object/tangible/meatlump/hideout/shared_meatlump_hotdog_grill_01.iff")
+
+object_tangible_meatlump_hideout_shared_meatlump_hotdog_grill_02 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/meatlump/hideout/shared_meatlump_hotdog_grill_02.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_meatlump_hideout_shared_meatlump_hotdog_grill_02, "object/tangible/meatlump/hideout/shared_meatlump_hotdog_grill_02.iff")
+
+--Ladder
+object_tangible_meatlump_hideout_shared_mtp_hideout_ladder_exit = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/meatlump/hideout/shared_mtp_hideout_ladder_exit.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_meatlump_hideout_shared_mtp_hideout_ladder_exit, "object/tangible/meatlump/hideout/shared_mtp_hideout_ladder_exit.iff")

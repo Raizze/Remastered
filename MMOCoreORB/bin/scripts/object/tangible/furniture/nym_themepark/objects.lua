@@ -1,0 +1,73 @@
+object_tangible_furniture_nym_themepark_shared_nym_themepark_arena_poster = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/nym_themepark/shared_nym_themepark_arena_poster.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_nym_themepark_shared_nym_themepark_arena_poster, "object/tangible/furniture/nym_themepark/shared_nym_themepark_arena_poster.iff")
+
+--Revenant Decal
+object_tangible_furniture_nym_themepark_shared_nym_themepark_logo_decal = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/nym_themepark/shared_nym_themepark_logo_decal.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_nym_themepark_shared_nym_themepark_logo_decal, "object/tangible/furniture/nym_themepark/shared_nym_themepark_logo_decal.iff")
+
+object_tangible_furniture_nym_themepark_shared_nym_themepark_painting = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/nym_themepark/shared_nym_themepark_painting.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_nym_themepark_shared_nym_themepark_painting, "object/tangible/furniture/nym_themepark/shared_nym_themepark_painting.iff")
+
+object_tangible_furniture_nym_themepark_shared_nym_themepark_surveillance_device = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/nym_themepark/shared_nym_themepark_surveillance_device.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_nym_themepark_shared_nym_themepark_surveillance_device, "object/tangible/furniture/nym_themepark/shared_nym_themepark_surveillance_device.iff")
+
+--Flocculation Chamber
+object_tangible_furniture_nym_themepark_shared_nym_themepark_flocculation_chamber = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/nym_themepark/shared_nym_themepark_flocculation_chamber.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_nym_themepark_shared_nym_themepark_flocculation_chamber, "object/tangible/furniture/nym_themepark/shared_nym_themepark_flocculation_chamber.iff")
+
+--Liquid Storage
+object_tangible_furniture_nym_themepark_shared_nym_themepark_liquid_storage = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/nym_themepark/shared_nym_themepark_liquid_storage.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_nym_themepark_shared_nym_themepark_liquid_storage, "object/tangible/furniture/nym_themepark/shared_nym_themepark_liquid_storage.iff")
+
+--Mixing Chamber
+object_tangible_furniture_nym_themepark_shared_nym_themepark_mixing_chamber = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/nym_themepark/shared_nym_themepark_mixing_chamber.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_nym_themepark_shared_nym_themepark_mixing_chamber, "object/tangible/furniture/nym_themepark/shared_nym_themepark_mixing_chamber.iff")
+
+--Sedimentation Tank
+object_tangible_furniture_nym_themepark_shared_nym_themepark_sedimentation_tank = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/nym_themepark/shared_nym_themepark_sedimentation_tank.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_nym_themepark_shared_nym_themepark_sedimentation_tank, "object/tangible/furniture/nym_themepark/shared_nym_themepark_sedimentation_tank.iff")
+
+--Dumpster
+object_tangible_furniture_nym_themepark_shared_city_dumpster = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/nym_themepark/shared_city_dumpster.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_nym_themepark_shared_city_dumpster, "object/tangible/furniture/nym_themepark/shared_city_dumpster.iff")
+
+--Mounted Slugthrower
+object_tangible_furniture_nym_themepark_shared_nym_themepark_mounted_slugthrower = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/nym_themepark/shared_nym_themepark_mounted_slugthrower.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_nym_themepark_shared_nym_themepark_mounted_slugthrower, "object/tangible/furniture/nym_themepark/shared_nym_themepark_mounted_slugthrower.iff")
+
+--Rug
+object_tangible_furniture_nym_themepark_shared_nym_themepark_rug = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/nym_themepark/shared_nym_themepark_rug.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_nym_themepark_shared_nym_themepark_rug, "object/tangible/furniture/nym_themepark/shared_nym_themepark_rug.iff")

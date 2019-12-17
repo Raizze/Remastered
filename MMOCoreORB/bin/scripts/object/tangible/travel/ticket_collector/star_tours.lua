@@ -1,0 +1,5 @@
+object_tangible_travel_ticket_collector_star_tours = object_tangible_travel_ticket_collector_shared_star_tours:new {
+	objectMenuComponent = "StarToursMenuComponent"
+}
+
+ObjectTemplates:addTemplate(object_tangible_travel_ticket_collector_star_tours, "object/tangible/travel/ticket_collector/star_tours.iff")

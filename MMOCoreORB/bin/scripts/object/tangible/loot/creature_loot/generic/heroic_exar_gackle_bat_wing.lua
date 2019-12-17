@@ -1,0 +1,6 @@
+object_tangible_loot_creature_loot_generic_heroic_exar_gackle_bat_wing = object_tangible_loot_creature_loot_generic_shared_heroic_exar_gackle_bat_wing:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_heroic_exar_gackle_bat_wing, "object/tangible/loot/creature_loot/generic/heroic_exar_gackle_bat_wing.iff")
+

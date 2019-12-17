@@ -1,0 +1,7 @@
+object_tangible_deed_player_house_deed_barn_no_planet_restriction_deed = object_tangible_deed_player_house_deed_shared_barn_no_planet_restriction_deed:new {
+	templateType = STRUCTUREDEED,
+	placeStructureComponent = "PlaceStructureComponent",
+	generatedObjectTemplate = "object/building/player/city/barn_no_planet_restriction.iff",
+}
+
+ObjectTemplates:addTemplate(object_tangible_deed_player_house_deed_barn_no_planet_restriction_deed, "object/tangible/deed/player_house_deed/barn_no_planet_restriction_deed.iff")

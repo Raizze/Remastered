@@ -1,0 +1,36 @@
+object_mobile_guardian_mark_ii_crafted = object_mobile_shared_guardian_mark_ii_crafted:new {
+	objectName = "@droid_name:guardian_mark_ii_crafted",
+	socialGroup = "",
+	faction = "",
+	level = 4,
+	chanceHit = 0.24,
+	damageMin = 182,
+	damageMax = 191,
+	baseXp = 0,
+	baseHAM = 3000,
+	baseHAMmax = 3200,
+	armor = 0,
+	resists = {0,0,0,0,0,0,0,-1,-1},
+	meatType = "",
+	meatAmount = 0,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask = HERD,
+	optionsBitmask = AIENABLED,
+	diet = HERBIVORE,
+
+	templates = { "object/creature/npc/droid/crafted/probe_droid_advanced.iff" },
+	lootGroups = {},
+	defaultAttack = "attack",
+	weapons = {"droid_probot_ranged"},
+	conversationTemplate = "",
+
+}
+
+ObjectTemplates:addTemplate(object_mobile_guardian_mark_ii_crafted, "object/mobile/guardian_mark_ii_crafted.iff")

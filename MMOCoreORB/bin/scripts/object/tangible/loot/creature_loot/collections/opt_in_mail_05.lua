@@ -1,0 +1,6 @@
+object_tangible_loot_creature_loot_collections_opt_in_mail_05 = object_tangible_loot_creature_loot_collections_shared_opt_in_mail_05:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_collections_opt_in_mail_05, "object/tangible/loot/creature_loot/collections/opt_in_mail_05.iff")
+

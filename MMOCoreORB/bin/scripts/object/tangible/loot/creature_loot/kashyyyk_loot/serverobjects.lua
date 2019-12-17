@@ -1,0 +1,20 @@
+--Children folder includes
+
+-- Server Objects
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/black_potion.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/orange_potion.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/purple_potion.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/red_potion.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/white_potion.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/mystical_scroll.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/mystical_tome.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/mystical_tome_01.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/mystical_tome_02.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/mystical_tome_03.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/mystical_tome_04.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/adventurers_remains_01.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/adventurers_remains_04.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/outcast_tool_04.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/outcast_tool_07.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/outcast_vitamins.lua")
+includeFile("tangible/loot/creature_loot/kashyyyk_loot/cave_light.lua")

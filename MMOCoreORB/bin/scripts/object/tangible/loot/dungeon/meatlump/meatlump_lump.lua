@@ -1,0 +1,6 @@
+object_tangible_loot_dungeon_meatlump_meatlump_lump = object_tangible_loot_dungeon_meatlump_shared_meatlump_lump:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_dungeon_meatlump_meatlump_lump, "object/tangible/loot/dungeon/meatlump/meatlump_lump.iff")
+

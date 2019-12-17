@@ -1,0 +1,35 @@
+tcg_peko_peko_mount_be = Creature:new {
+	objectName = "@static_item_n:item_tcg_loot_reward_series4_peko_peko_mount_02_01",
+	socialGroup = "peko",
+	faction = "",
+	level = 10,
+	chanceHit = 0.45,
+	damageMin = 100,
+	damageMax = 100,
+	baseXp = 40,
+	baseHAM = 2200,
+	baseHAMmax = 2200,
+	armor = 0,
+	resists = {1,1,1,1,1,1,1,1,-1},
+	meatType = "",
+	meatAmount = 0,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask =  NONE,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+	templates = {"object/mobile/tcg_peko_peko_mount.iff"},
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(tcg_peko_peko_mount_be, "tcg_peko_peko_mount_be")

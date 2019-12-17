@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while true; do
+	gdb -batch -ex "run" -ex "bt" ./core3 2>&1 | tee -a debug.log
+	echo "Server crashed restarting"
+	sleep 1
+done

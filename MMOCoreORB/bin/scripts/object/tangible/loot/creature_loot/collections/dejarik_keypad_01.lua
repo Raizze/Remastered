@@ -1,0 +1,6 @@
+object_tangible_loot_creature_loot_collections_dejarik_keypad_01 = object_tangible_loot_creature_loot_collections_shared_dejarik_keypad_01:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_collections_dejarik_keypad_01, "object/tangible/loot/creature_loot/collections/dejarik_keypad_01.iff")
+

@@ -1,0 +1,6 @@
+object_tangible_loot_creature_loot_collections_dejarik_table_stand = object_tangible_loot_creature_loot_collections_shared_dejarik_table_stand:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_collections_dejarik_table_stand, "object/tangible/loot/creature_loot/collections/dejarik_table_stand.iff")
+

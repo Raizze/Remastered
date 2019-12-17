@@ -1,0 +1,4 @@
+object_tangible_terminal_crafting_assembly_terminal = object_tangible_terminal_shared_crafting_assembly_terminal:new {
+}
+ObjectTemplates:addTemplate(object_tangible_terminal_crafting_assembly_terminal, "object/tangible/terminal/crafting_assembly_terminal.iff")
+
