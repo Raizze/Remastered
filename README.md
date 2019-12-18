@@ -12,6 +12,12 @@ This server, like all other private servers, would not be possible without the i
 
 ** We take no credit for creating much of anything on this server.
 
-Mod The Galaxy Tre Files (Full Credit) Core3 – SWG Emu Team (FULL Credit) SWG Infinity – We used their /regrantskills command and we used some of their slicing code. (FULL CREDIT) Cesta – We used his Galaxy Harvester Resource Generation Logic and take no credit for the work (FULL CREDIT) TheTinyPebble - for always assisting with issues, ideas, or just letting me vent!
+Mod The Galaxy Tre Files 
+Core3 – SWG Emu Team
+SWG Infinity – We used their /regrantskills command and we used some of their slicing code.
+Cesta – We used his Galaxy Harvester Resource Generation Logic and take no credit for the work
+TheTinyPebble - for always assisting with issues, ideas, or just letting me vent!
+I've collected a large variety of paintings to use and the origination isn't very clear. Some came from the Tarkin tre set, but I'm not sure that is the place of orgination.
+Borrie's Wall Pack.
 
 Many of our QOL Changes can be found on the EMU forums, under the forum post labeled Just For Fun 2.0.
