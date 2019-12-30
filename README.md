@@ -17,7 +17,10 @@ Core3 – SWG Emu Team
 SWG Infinity – We used their /regrantskills command and we used some of their slicing code.
 Cesta – We used his Galaxy Harvester Resource Generation Logic and take no credit for the work
 TheTinyPebble - for always assisting with issues, ideas, or just letting me vent!
-I've collected a large variety of paintings to use and the origination isn't very clear. Some came from the Tarkin tre set, but I'm not sure that is the place of orgination.
+I've collected a large variety of paintings to use and the origination of some isn't very clear. Most came from the MTG tre set, but some may have came from the Tarkin tre set, but I'm not sure that is the place of orgination.
 Borrie's Wall Pack.
 
 Many of our QOL Changes can be found on the EMU forums, under the forum post labeled Just For Fun 2.0.
+Most all of our DECO, NGE Weapons, NGE Vehicles, NGE Components are directly from the MTG tre set. Full credit to that group. The Tarkin Repo does a good job of disributing that loot across the galaxy, so we used their loot group structures with minimal change. Credit to Tarkin for the loot groups.
+
+I also want to thank my small group of dedicated supporters.  Your reddit posts, rush to explore our updates, and just overal encouragement around what we do...helps Remastered remain one of the most populated SWG Emu servers, to date.  Thank you All! I couldn't do this without your support!  (Current average 250-300 Accounts daily)
