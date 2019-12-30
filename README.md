@@ -21,6 +21,8 @@ I've collected a large variety of paintings to use and the origination of some i
 Borrie's Wall Pack.
 
 Many of our QOL Changes can be found on the EMU forums, under the forum post labeled Just For Fun 2.0.
-Most all of our DECO, NGE Weapons, NGE Vehicles, NGE Components are directly from the MTG tre set. Full credit to that group. The Tarkin Repo does a good job of disributing that loot across the galaxy, so we used their loot group structures with minimal change. Credit to Tarkin for the loot groups.
+
+Most all of our DECO, NGE Weapons, NGE Vehicles, NGE Components are directly from the MTG tre set. Full credit to that group. 
+The Tarkin Repo does a good job of disributing that loot across the galaxy, so we used their loot group structures with minimal change. Credit to Tarkin for the loot groups.
 
 I also want to thank my small group of dedicated supporters.  Your reddit posts, rush to explore our updates, and just overal encouragement around what we do...helps Remastered remain one of the most populated SWG Emu servers, to date.  Thank you All! I couldn't do this without your support!  (Current average 250-300 Accounts daily)
